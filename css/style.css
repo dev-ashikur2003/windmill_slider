@@ -69,36 +69,28 @@ samp{
 }
 .tow{
     text-align: center;
-    margin-top: 20px;
     background: url(../images/windmill\ \(2\).jpg);
-   
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
 }
 .ttyud{
      text-align: center;
-    margin-top: 20px;
     background: url(../images/windmill\ \(3\).jpg);
-   
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
 }
 .fgtrhr{
      text-align: center;
-    margin-top: 20px;
     background: url(../images/windmill\ \(4\).jpg);
-   
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
 }
 .jhggiu{
      text-align: center;
-    margin-top: 20px;
     background: url(../images/windmill\ \(5\).jpg);
-   
     background-size: cover;
     background-repeat: no-repeat;
     height: 800px;
@@ -116,4 +108,5 @@ samp{
 }
 .cxxscvx p{
      color: #000;
+
 }
